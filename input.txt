@@ -32,3 +32,4 @@ add12
 add11
 >>>>>>> master
 new add
+new add2
