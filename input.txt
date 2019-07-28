@@ -14,5 +14,10 @@ add4
 add6
 =======
 add7
+<<<<<<< HEAD
+add8
+
+=======
+>>>>>>> master
 >>>>>>> master
 add9
