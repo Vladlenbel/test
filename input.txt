@@ -10,4 +10,8 @@ add5
 >>>>>>> vet1
 add4
 >>>>>>> master
+<<<<<<< HEAD
 add6
+=======
+add7
+>>>>>>> master
