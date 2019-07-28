@@ -26,5 +26,9 @@ add11
 add9
 add10
 >>>>>>> master
+<<<<<<< HEAD
 add12
+=======
+add11
+>>>>>>> master
 
