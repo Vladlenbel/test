@@ -16,5 +16,10 @@ ppppppppppppppppppppp
 uuuuuuuuuuuu
 pppppppppppppppppppppp
 >>>>>>> test/master
+<<<<<<< HEAD
 sfsfd
 adassadasd
+=======
+12312
+sdfsdf
+>>>>>>> master
