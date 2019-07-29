@@ -9,5 +9,10 @@ new day
 ddddd
 uuuu
 fff
+<<<<<<< HEAD
 yyyyyyyyyyyyyyyyyyy
 ppppppppppppppppppppp
+=======
+uuuuuuuuuuuu
+pppppppppppppppppppppp
+>>>>>>> test/master
